@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffTree
+## Author: Shagu
+## Notes: A variable browser
+## Version: 0.1
+## Dependencies: pfUI
+## SavedVariablesPerCharacter: pfTreeStorage
+
+# main
+pfTree.lua
